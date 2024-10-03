@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Meu Aplicativo</string>
+    <string name="input1">Entrada 1</string>
+    <string name="input2">Entrada 2</string>
+    <string name="input3">Entrada 3</string>
+    <string name="submit">Enviar</string>
+    <string name="spinner_label">Escolha uma opção:</string>
+</resources>
